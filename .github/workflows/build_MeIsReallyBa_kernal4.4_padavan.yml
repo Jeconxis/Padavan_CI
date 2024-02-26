@@ -14,6 +14,8 @@ on:
         - Xiaomi_CR6609
         - DLINK_DIR-878
         - DLINK_DIR-882
+        - E8820V2
+        - HAR-20S2U1
         - JCG_836PRO
         - JCG_AC860M
         - JCQ_Q20
@@ -92,6 +94,12 @@ jobs:
             },
             "DLINK_DIR-882": {
               "model": "DIR-882"
+            },
+            "ZTE-E8820V2": {
+              "model": "E8820V2"
+            },
+            "Haier_HAR-20S2U1": {
+              "model": "HAR-20S2U1"
             },
             "JCG_836PRO": {
               "model": "JCG-836PRO"
